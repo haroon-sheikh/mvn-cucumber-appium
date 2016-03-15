@@ -4,7 +4,7 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
-public class AddContactStepDefs {
+public class HamburgerDef {
 
 	@Given("^I launch the app$")
 	public void I_launch_the_app() throws Throwable {
